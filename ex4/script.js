@@ -2,7 +2,7 @@ function escrevaNumeros(inicio,fim){
     if(inicio < fim){
       setTimeout(function(){
         inicio++
-        alert(inicio)
+        console.log(inicio)
         escrevaNumeros(inicio,fim)
       }, 1000)
     }

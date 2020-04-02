@@ -1,12 +1,21 @@
-function escrevaNumeros(inicio,fim){
-    if(inicio < fim){
-      setTimeout(function(){
-        inicio++;
-        alert(inicio);
-        escrevaNumeros(inicio,fim);
-      }, 1000);
-    }
-  }
-  window.onload = function(){
-    escrevaNumeros(0,5)
-  }
+function escrevaNumerosInterval(inicio,fim){
+    setInterval(function(){
+        if(inicio < fim){
+            inicio++
+            console.log(inicio)
+        }
+        else return
+    }, 10000)
+}
+
+function escrevaNumerosAninhado(inicio,fim){
+    let mostra = setTimeout(function mostrar(){
+        if(inicio < fim){
+            inicio++
+            console.log(inicio)
+        mostra = setTimeout(mostrar, 1000)    
+        }
+        else return
+    }, 1000)
+}
+
