@@ -1,0 +1,67 @@
+{
+    "title": "Recipe Puppy",
+    "version": 0.1,
+    "href": "http://www.recipepuppy.com/",
+    "results": [
+      {
+        "title": "Bacon Chicken II",
+        "href": "http://allrecipes.com/Recipe/Bacon-Chicken-II/Detail.aspx",
+        "ingredients": "bacon, chicken",
+        "thumbnail": "http://img.recipepuppy.com/5179.jpg"
+      },
+      {
+        "title": "Chicken Wrapped In Bacon Recipe",
+        "href": "http://www.grouprecipes.com/52839/chicken-wrapped-in-bacon.html",
+        "ingredients": "bacon, chicken",
+        "thumbnail": "http://img.recipepuppy.com/269042.jpg"
+      },
+      {
+        "title": "Grilled Chicken Roller \r\n\r\n",
+        "href": "http://www.kraftfoods.com/kf/recipes/grilled-chicken-roller-113704.aspx",
+        "ingredients": "chicken, bacon, balsamic vinaigrette",
+        "thumbnail": "http://img.recipepuppy.com/604309.jpg"
+      },
+      {
+        "title": "Bacon and Chicken Stir-Fry for Your Cat",
+        "href": "http://www.recipezaar.com/Bacon-and-Chicken-Stir-Fry-for-Your-Cat-168043",
+        "ingredients": "bacon, butter, chicken",
+        "thumbnail": "http://img.recipepuppy.com/111504.jpg"
+      },
+      {
+        "title": "Amazing Chicken",
+        "href": "http://www.recipezaar.com/Amazing-Chicken-141385",
+        "ingredients": "bacon, chicken, boursin cheese",
+        "thumbnail": "http://img.recipepuppy.com/59433.jpg"
+      },
+      {
+        "title": "Chicken Wraps",
+        "href": "http://allrecipes.com/Recipe/Chicken-Wraps/Detail.aspx",
+        "ingredients": "bacon, chicken, teriyaki sauce",
+        "thumbnail": "http://img.recipepuppy.com/8713.jpg"
+      },
+      {
+        "title": "Smothered Bacon Chicken",
+        "href": "http://allrecipes.com/Recipe/Smothered-Bacon-Chicken/Detail.aspx",
+        "ingredients": "bacon, chicken, sour cream",
+        "thumbnail": "http://img.recipepuppy.com/2741.jpg"
+      },
+      {
+        "title": "Bacon Chicken I",
+        "href": "http://allrecipes.com/Recipe/Bacon-Chicken-I/Detail.aspx",
+        "ingredients": "bacon, chicken, milk",
+        "thumbnail": "http://img.recipepuppy.com/5035.jpg"
+      },
+      {
+        "title": "Armadillo Eggs",
+        "href": "http://www.recipezaar.com/Armadillo-Eggs-125025",
+        "ingredients": "bacon, chicken, jalapeno",
+        "thumbnail": "http://img.recipepuppy.com/79279.jpg"
+      },
+      {
+        "title": "Deluxe Sour Cream Chicken",
+        "href": "http://allrecipes.com/Recipe/Deluxe-Sour-Cream-Chicken/Detail.aspx",
+        "ingredients": "bacon, chicken, rice",
+        "thumbnail": "http://img.recipepuppy.com/2789.jpg"
+      }
+    ]
+  }
