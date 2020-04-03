@@ -5,7 +5,7 @@ function escrevaNumerosInterval(inicio,fim){
             console.log(inicio)
         }
         else return
-    }, 10000)
+    }, 1000)
 }
 
 function escrevaNumerosAninhado(inicio,fim){

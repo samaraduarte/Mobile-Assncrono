@@ -9,7 +9,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
-<body>
+<body onload="fetchData()">
     <nav class="navbar navbar-default">
         <div class="navbar-header">
           <a class="navbar-brand" href="#">Busca no recipepuppy.com = bacon,chicken</a>
@@ -17,7 +17,5 @@
     </nav>     
 
     <div id="json"></div>
-    <button onclick="loadJson()">Mostrar</button>
-
 </body>
 </html>
